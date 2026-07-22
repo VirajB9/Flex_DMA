@@ -37,8 +37,8 @@ Once you have installed the tools above, follow these steps to run the applicati
 
 ### Step 1: Clone the Repository
 ```bash
-git clone git@github.com:VirajB9/FlexCRM.git
-cd FlexCRM
+git clone git@github.com:coderbhaai/sb_amitkk.git
+cd sb_amitkk
 ```
 
 ### Step 2: Start the Database
